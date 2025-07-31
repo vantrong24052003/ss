@@ -4,7 +4,7 @@
 
 **Bước 1: Thiết lập thông tin cá nhân**
 ```bash
-git config --global user.name "Tên của bạn"
+git config --global useradsadsadsa.name "Tên của bạn" trong đang ở main
 git config --global user.email "email@example.com"
 ```
 
